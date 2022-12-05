@@ -1,6 +1,6 @@
-package day29abstractioncollections;
+package day29abstractioncollections.abstraction;
 
-public interface Engine extends Vehicle{
+public interface Engine extends Vehicle {
 
     // Child        Parent
     // Class ---> Interface      ==> implements

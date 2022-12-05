@@ -1,4 +1,4 @@
-package day29abstractioncollections;
+package day29abstractioncollections.abstraction;
 
 /*
         "abstract method" lar sadece ne yapilacagini soyler(what to do)

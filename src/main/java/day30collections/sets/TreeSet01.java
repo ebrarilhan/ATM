@@ -1,4 +1,4 @@
-package day30collections;
+package day30collections.sets;
 
 import java.time.LocalTime;
 import java.util.HashSet;
@@ -8,7 +8,7 @@ public class TreeSet01 {
 
 
      /*
-        TreeSet tekrarsiz elemanlari "alfabetik" veya "kucukten buyuge"(Natural Order) dizer.
+        TreeSet tekrarsiz elemanlari "alfabetik" veya "kucukten buyuge"(Natural Order) dogal sirali dizer.
         TreeSet cooook yavas calisir.
 
         Note: Tekrarsiz elemanlari natural order da depolamak icin TreeSet kullanmak mantiklidir ama TreeSet ler coook yavas calistigi icin biz,

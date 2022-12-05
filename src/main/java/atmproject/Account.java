@@ -98,7 +98,7 @@ public class Account {
 
 
 
-    //son bakiyeyi gosterme
+    //son bakiyeyi gosterme methodu
 
     public void displayCurrentAmount(double balance){
         System.out.println("hesabinizda bulunan bakiye: " + moneyFormat.format(balance));
@@ -132,7 +132,7 @@ public class Account {
 
 
 
-    //para yatirm(checking icin): musteri ile para yatirmak icin etkilesime gecelim.
+    //para yatirma(checking icin): musteri ile para yatirmak icin etkilesime gecelim.
 
     public void getCheckingDeposit(){
 

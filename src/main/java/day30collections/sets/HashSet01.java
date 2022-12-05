@@ -1,4 +1,4 @@
-package day30collections;
+package day30collections.sets;
 
 import java.util.HashSet;
 
@@ -8,7 +8,7 @@ public class HashSet01 {
          Hash bir tekniktir,birbirine benzemeyen code'lar üretir bu code'lar data'yi unique yapar.
          Set'lere, çoklu ama tekrarsız data depolamak istediğimizde ihtiyaç duyarız.(Oğrenci numaraları gibi)
 
-         HashSet'ler eklenen elemanlarin siralamasi ile ugrasmaz. Siralama ile alakali zaman harcamaz b =u yuzden cok hizli calisir.
+         HashSet'ler eklenen elemanlarin siralamasi ile ugrasmaz. Siralama ile alakali zaman harcamaz bu yuzden cok hizli calisir.
 
          HashSet'ler index kullanmazlar. Cunku siralama rastgele yapildigi icin index manali olmaz.
 

@@ -12,6 +12,8 @@ public class Exceptions04 {
             System.out.println(e.getMessage());
         }
 
+
+
     }
 
     //Yas'i ekrana yazdiran bir method olusturunuz
